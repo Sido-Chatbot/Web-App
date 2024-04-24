@@ -1,2 +1,6 @@
 # Web-App
 Repositori ini menyimpan kode sumber aplikasi Sido Chatbot yang dikembangkan untuk memberikan pengenalan tentang objek wisata di Kediri. Aplikasi ini bertujuan untuk meningkatkan pengalaman pengguna dalam menemukan informasi tentang tempat wisata yang menarik di kota Kediri.
+
+Fitur utama aplikasi ini mencakup pengenalan objek wisata, interaksi dengan chatbot, dan integrasi dengan API ChatGPT. Pengguna dapat dengan mudah mendapatkan informasi tentang objek wisata Kediri, termasuk deskripsi, lokasi, fasilitas, dan informasi praktis lainnya. Mereka juga dapat berinteraksi dengan chatbot untuk bertanya tentang objek wisata tertentu, mendapatkan rekomendasi, atau informasi tambahan. Integrasi dengan API ChatGPT memungkinkan respons yang lebih kontekstual dan mendalam terhadap pertanyaan pengguna.
+
+Struktur repositori meliputi "/template" untuk file template HTML, "/migration" untuk folder sumber python template, serta terdapat file SQLite3 dan manage.py sebagai file utama aplikasi. Kami mengundang kontribusi dari para pengembang untuk meningkatkan fungsionalitas dan kualitas aplikasi ini agar dapat memberikan manfaat yang lebih besar bagi pengguna yang tertarik dengan pariwisata di Kediri. Jelajahi repositori ini dan berikan saran, laporan bug, atau kontribusi melalui pull request. Terima kasih atas partisipasinya!
